@@ -1,4 +1,5 @@
 .box{
+    display:flexbox;
     border: 1px solid white;
     border-left: solid black;
     border-left-width: medium;
@@ -48,6 +49,7 @@ button{
     padding-left: 50px;   
 }
 .btn-1{
+    
     padding: 0.5em;
     color: white;
     height: 36px;
